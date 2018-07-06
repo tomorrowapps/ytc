@@ -28,6 +28,7 @@ github:
 
 # them specific
 logo: /assets/img/i48.png
+google_analytics: UA-121889878-1
 
 # Build settings
 markdown: kramdown
