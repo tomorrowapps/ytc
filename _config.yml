@@ -24,7 +24,7 @@ github_username:  tomorrowapps
 github:
   owner_url: http://github.com/tomorrowapps
   owner_name: tomorrowapps
-  is_project_page: true
+  is_project_page: false
 
 # them specific
 logo: /assets/img/i48.png
